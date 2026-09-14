@@ -1,8 +1,6 @@
 # Hi, I'm Sravani Gangula 👋
 
-🎓 Master's Student in Health Data Analytics
-
-🏥 Healthcare Quality Data Analyst with expertise in healthcare data, quality improvement, and analytics.
+🏥 Healthcare Data Scientist with expertise in healthcare data, quality improvement, and analytics.
 
 📊 Areas of Interest
 - Health Data Science
