@@ -37,7 +37,7 @@
 
 📫 Contact
 - Email: gangulasravani1@gmail.com
-- LinkedIn: https://www.linkedin.com/in/sravani-gangula-mhda-pharmd-13006417a/
+- LinkedIn: https://www.linkedin.com/in/sravani-gangula-13006417a/
 
 ---
 
